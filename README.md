@@ -5,7 +5,7 @@
 - I really enjoy building things that make other people's lives just a little bit better.
 - I love learning new, more elegant ways of solving problems.
 - And, I love teaching other people about what I have learned.
-- I’m currently teaching Full-stack Web Development with JavaScript, React, Node, MySQL and MongoDB.
+- I’ve been teaching Full-stack Web Development with JavaScript, React, Node, MySQL and MongoDB.
 - I also provide consulting support for Start-ups.
 
 ### Philosophy ✨
